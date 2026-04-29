@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Student man\bin\Debug\net10.0\StudentTrackingSystem.exe
+C:\Users\admin\Desktop\Student man\bin\Debug\net10.0\StudentTrackingSystem.deps.json
+C:\Users\admin\Desktop\Student man\bin\Debug\net10.0\StudentTrackingSystem.runtimeconfig.json
+C:\Users\admin\Desktop\Student man\bin\Debug\net10.0\StudentTrackingSystem.dll
+C:\Users\admin\Desktop\Student man\bin\Debug\net10.0\StudentTrackingSystem.pdb
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.AssemblyInfo.cs
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.dll
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\refint\StudentTrackingSystem.dll
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.pdb
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\StudentTrackingSystem.genruntimeconfig.cache
+C:\Users\admin\Desktop\Student man\obj\Debug\net10.0\ref\StudentTrackingSystem.dll
